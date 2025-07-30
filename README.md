@@ -32,25 +32,25 @@ Developed a SaaS tool that summarizes GitHub repos using LangChain and OpenAI, w
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vamsim0874/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-orange)](https://portfolio-mocha-phi-37.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-profile-black?logo=github)](https://github.com/vamsi0874)
+<a href="https://www.linkedin.com/in/vamsi0874/" target="_blank">🔗 LinkedIn</a>  
+<a href="https://portfolio-mocha-phi-37.vercel.app/" target="_blank">🧑‍💻 Portfolio</a>  
+<a href="https://github.com/vamsi0874" target="_blank">💻 GitHub Profile</a>
 
 ---
 
 ## 💻 Tech Stack Icons
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js" />
+<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
 
 ---
 
