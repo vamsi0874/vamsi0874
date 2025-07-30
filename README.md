@@ -35,7 +35,7 @@ A personal portfolio built with Next.js to showcase my work, experience, and ski
 
 ## 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/vamsi0874/" target="_blank">
+<a href="https://www.linkedin.com/in/vamsim0874/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
 <a href="https://github.com/vamsi0874" target="_blank">
