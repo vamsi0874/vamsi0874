@@ -32,7 +32,7 @@ Developed a SaaS tool that summarizes GitHub repos using LangChain and OpenAI, w
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vamsi0874/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vamsim0874/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-orange)](https://portfolio-mocha-phi-37.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-profile-black?logo=github)](https://github.com/vamsi0874)
 
