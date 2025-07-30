@@ -11,34 +11,40 @@ I build performant full-stack applications with real-time features, strong backe
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Nest.js, tRPC  
 - **Database & ORM:** PostgreSQL, MongoDB, Prisma  
-- **DevOps & Tools:** Docker, AWS, GitHub Actions, Stripe, Clerk, Zod, ImageKit  
-- **Testing & CI/CD:** Jest, React Testing Library, GitHub Actions  
+- **DevOps & Tools:** Docker, GitHub Actions, Stripe, Clerk, Zod, ImageKit  
+- **Testing & CI/CD:** Jest, React Testing Library  
 - **AI & Integration:** OpenAI APIs, LangChain, ImageKit
 
 ---
 
 ## 🚀 Key Projects
 
-🔹 **Social Media App**  
-Built a full-stack social platform with real-time notifications using Socket.IO and Clerk, supporting 1,500+ users. Features infinite scrolling, image uploads, and CI/CD integration with 90%+ test coverage.
+🔹 **[Social Media App](https://x-clone-03r6.onrender.com/)**  
+Full-stack social platform with real-time notifications using Socket.IO and Clerk, supporting 1,500+ users. Includes infinite scrolling, image uploads, and 90%+ test coverage with CI/CD using GitHub Actions.
 
-🔹 **AI Chatbot**  
-ChatGPT-style app supporting both text and image input, backed by MongoDB and Nest.js. Handles 50,000+ chat messages with JWT-based auth and <2s load times, using React Query for real-time UI updates.
+🔹 **[AI Chatbot](https://gpt-front-two.vercel.app/)**  
+ChatGPT-style app with text and image input, powered by Nest.js and MongoDB. Supports 1,000+ concurrent users with JWT-based auth and React Query for real-time UI sync.
 
-🔹 **GitHub SaaS Platform**  
-Developed a SaaS tool that summarizes GitHub repos using LangChain and OpenAI, with a typesafe AI chatbot powered by tRPC. Integrated Stripe for a secure billing system and optimized dev onboarding.
+🔹 **[GitHub SaaS Platform](https://saas-55ui.vercel.app/)**  
+SaaS tool that summarizes GitHub repo code using LangChain + OpenAI, and includes a codebase Q&A AI chatbot. Integrated with Stripe for secure credit-based billing.
+
+🔹 **[Portfolio](https://portfolio-mocha-phi-37.vercel.app/)**  
+A personal portfolio built with Next.js to showcase my work, experience, and skillset.
 
 ---
 
 ## 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/vamsi0874/" target="_blank">🔗 LinkedIn</a>  
-<a href="https://portfolio-mocha-phi-37.vercel.app/" target="_blank">🧑‍💻 Portfolio</a>  
-<a href="https://github.com/vamsi0874" target="_blank">💻 GitHub Profile</a>
+<a href="https://www.linkedin.com/in/vamsi0874/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
+<a href="https://github.com/vamsi0874" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+</a>
 
 ---
 
-## 💻 Tech Stack Icons
+## 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js" />
 <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
@@ -51,6 +57,10 @@ Developed a SaaS tool that summarizes GitHub repos using LangChain and OpenAI, w
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/ImageKit.io-00C1E4?logo=data:image/svg+xml;base64,...&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-8E44AD?logo=data:image/svg+xml;base64,...&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-2b3137?logo=data:image/svg+xml;base64,...&logoColor=white" />
 
 ---
 
