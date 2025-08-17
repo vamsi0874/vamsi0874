@@ -28,9 +28,6 @@ ChatGPT-style app with text and image input, powered by Nest.js and MongoDB. Sup
 🔹 **[GitHub SaaS Platform](https://saas-55ui.vercel.app/)**  
 SaaS tool that summarizes GitHub repo code using LangChain + OpenAI, and includes a codebase Q&A AI chatbot. Integrated with Stripe for secure credit-based billing.
 
-🔹 **[Portfolio](https://portfolio-mocha-phi-37.vercel.app/)**  
-A personal portfolio built with Next.js to showcase my work, experience, and skillset.
-
 ---
 
 ## 🌐 Let's Connect
