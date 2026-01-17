@@ -57,4 +57,4 @@ SaaS tool that summarizes GitHub repo code using LangChain + OpenAI, and include
 
 ---
 
-✨ *Let’s build something amazing together!*
+ *Let’s build something amazing together!*
