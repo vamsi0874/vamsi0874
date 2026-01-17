@@ -25,9 +25,8 @@ Full-stack social platform with real-time notifications using Socket.IO and Cler
 🔹 **[AI Chatbot](https://gpt-front-two.vercel.app/)**  
 ChatGPT-style app with text and image input, powered by Nest.js and MongoDB. Supports 1,000+ concurrent users with JWT-based auth and React Query for real-time UI sync.
 
-🔹 **[GitHub SaaS Platform](https://saas-55ui.vercel.app/)**  
-SaaS tool that summarizes GitHub repo code using LangChain + OpenAI, and includes a codebase Q&A AI chatbot. Integrated with Stripe for secure credit-based billing.
-
+🔹 **[GitHub SaaS Platform](https://pdfchat-blond.vercel.app/)**  
+Developed a PDF chat application using Next.js and the Gemini API that allows users to upload PDFs and interact with their content through AI-powered conversations. Implemented Pinecone for semantic search to deliver fast, context-aware responses, and used blob storage for PDF files with Firebase Firestore to manage chat metadata.
 ---
 
 ## 🌐 Let's Connect
