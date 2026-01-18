@@ -14,7 +14,6 @@ I build performant full-stack applications with real-time features, strong backe
 - **DevOps & Tools:** Docker, AWS, GitHub Actions, Stripe, Clerk, Zod, ImageKit.  
 - **Testing & CI/CD:** Jest, React Testing Library.  
 - **AI & Integration:** OpenAI APIs, LangChain, ImageKit.
-
 ---
 
 ## 🚀 Key Projects
