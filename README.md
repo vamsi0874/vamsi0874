@@ -11,7 +11,7 @@ I build performant full-stack applications with real-time features, strong backe
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS.  
 - **Backend:** Node.js, Express.js, Nest.js, tRPC.  
 - **Database & ORM:** PostgreSQL, MongoDB, Prisma.  
-- **DevOps & Tools:** Docker, AWS, GitHub Actions, Stripe, Clerk, Zod, ImageKit.  
+- **DevOps & Tools:** Docker, AWS, GitHub Actions, Stripe.  
 - **Testing & CI/CD:** Jest, React Testing Library.  
 - **AI & Integration:** OpenAI APIs, LangChain, ImageKit.
 ---
